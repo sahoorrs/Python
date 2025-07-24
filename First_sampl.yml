@@ -1,0 +1,18 @@
+! First_sampl.yml
+# This is a sample YAML file for testing purposes.
+# It contains various data types and structures.
+# Comments are allowed using the '#' symbol.
+---
+FirstName: Rashmi
+LastName: Sahoo
+Age: 30
+Age_Hex: 0x1E
+Age_Binary: 0b11110
+Age_Octal: 036
+Age_Hex_String: "0x1E"
+BirthDate: 30
+BirthMonth: 4
+Height: 5.11
+Weight: 186.5
+
+
